@@ -32,5 +32,5 @@ npm run build
 ```
 
 ## 参考記事
-[Amplify + Cognitoでユーザ登録画面とユーザ認証までを試してみた](https://dev.classmethod.jp/articles/amplify-congito-try-user-authentication/)
-[Amplify SNS Workshop > MVPを作ろう！ > 認証機能](https://amplify-sns.workshop.aws/ja/30_mock/10_auth.html)
+- [Amplify + Cognitoでユーザ登録画面とユーザ認証までを試してみた](https://dev.classmethod.jp/articles/amplify-congito-try-user-authentication/)
+- [Amplify SNS Workshop > MVPを作ろう！ > 認証機能](https://amplify-sns.workshop.aws/ja/30_mock/10_auth.html)
